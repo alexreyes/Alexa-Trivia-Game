@@ -1,5 +1,5 @@
 # Alexa-Trivia-Game
-A simple trivia game made using flask-ask for the Amazon Echo/dot
+A simple trivia game made using flask-ask for the Amazon Echo/dot. Basically the way it works is it just makes an API call to [openTDB](https://opentdb.com/api_config.php)
 
 # Intent Schema/ Sample Utterances:
 ```
